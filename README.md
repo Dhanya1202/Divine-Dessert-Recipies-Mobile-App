@@ -2,10 +2,12 @@
 Developed a Dessert Recipe App 
 
 **Dataset:**
+
 •Obtained a recipe dataset from Archana's Kitchen (https://www.kaggle.com/datasets/kanishk307/6000-indian-food-recipes-dataset?select=IndianFoodDatasetCSV.csv)
 •Webscraped the recipe URLs and obtained corresponding Image URLs 
 
 **Technologies Used:**
+
 •Frontend: React Native Expo
 •Backend: Node.js with Express framework
 •Database: MySQL
