@@ -12,6 +12,7 @@ Developed a Dessert Recipe App
 •Communication: RESTful API with JSON
 
 **Screenshot:**
+
 ![image](https://github.com/Dhanya1202/Divine-Dessert-Recipies-Mobile-App/assets/95705962/9e91b866-29d8-4ed4-a995-176ecfe03fd8) 
 ![image](https://github.com/Dhanya1202/Divine-Dessert-Recipies-Mobile-App/assets/95705962/d12a8cd4-7917-4432-b328-ec106708ddc5)
 ![image](https://github.com/Dhanya1202/Divine-Dessert-Recipies-Mobile-App/assets/95705962/306e33d7-1b11-491c-b03e-166b96b1deac)
